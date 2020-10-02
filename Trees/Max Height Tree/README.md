@@ -1,5 +1,6 @@
 # Calculate Maximum Height of Tree
 
+**Definition:** Maximum Height of the tree is number of nodes on the longest path from root node to leaf node. 
 This algorithm calculates the maximum height of the tree in a recursive manner based on the input tree defined in the main function of the code file. The implementation of the algorithm is in the C++ language. 
 
 ## Algorithm
