@@ -1,3 +1,17 @@
+
+// Definition Maximum Height of the tree is number of nodes on the longest path from root node to leaf node. 
+/*Example Tree used
+
+         1
+        / \
+       2   3
+      / \ 
+     4   5
+    /
+   6
+*/
+
+
 #include <bits/stdc++.h> 
 using namespace std; 
   
@@ -40,19 +54,6 @@ TreeNode* newNode(int data)
 }  
       
 //Main function   
-
-
-/* Example Tree used
-
-         1
-        / \
-       2   3
-      / \ 
-     4   5
-    /
-   6
-
-*/
 int main()  
 {  
     TreeNode *root = newNode(1);  
